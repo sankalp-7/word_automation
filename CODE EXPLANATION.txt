@@ -1,0 +1,6 @@
+The first task was to get the desired input values from the excel file. As I have enough knowledge in pandas I implemented the code where I use pandas to get the desired input values 
+excel file.
+Now I had to convert the input in form of key-value dictionary so I can render it into the word file using the docxtpl library
+I made changes to the word files where I put every highlighted text in '{{}}' so that I can render the desired value into it.
+After changing the word files I made folder in the project folders according to the question.
+After rendering the context into the word files I saved the output word files into their correct folders.
